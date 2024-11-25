@@ -12,6 +12,10 @@
 - **音符回放**：支持 MIDI 音符播放和重复聆听，提供专业的音频反馈。
 - **统计分析**：在练习结束后显示正确率以及每题答案对比。
 
+
+![image](https://github.com/user-attachments/assets/fe83b8df-da41-4244-800f-113eb70188ca)
+
+
 ## 安装和运行
 ### 环境要求
 - Python 3.8 或更高版本
